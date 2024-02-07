@@ -3,7 +3,7 @@ TODO:
 We present hereafter our open source architecture:
 
 
-<img src="https://raw.githubusercontent.com/sava-anti-ddos/sava-anti-ddos.github.io/gh-pages/docs/savd_architecture.png" width="800">
+<img src="https://raw.githubusercontent.com/sava-anti-ddos/sava-anti-ddos.github.io/gh-pages/docs/savd_architecture.png" width="600">
 
 
 
