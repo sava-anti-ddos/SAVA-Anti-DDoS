@@ -1,4 +1,4 @@
-TODO:
+
 
 We present hereafter our open source architecture:
 
@@ -11,19 +11,17 @@ We present hereafter our open source architecture:
 
 - 1. L. Hui, L. Zhang, Y. Hu, J. Wu and Y. Cui, "[SAV-D: Defending DDoS with Incremental Deployment of SAV](https://ieeexplore.ieee.org/document/10122643)," in IEEE Internet Computing, vol. 27, no. 3, pp. 44-49, May-June 2023, doi: 10.1109/MIC.2023.3264319.
 
+
+- 2. Y. Cui, J. Wu, L. Zhang, "[SAV-based Anti-DDoS Architecture draft-cui-savnet-anti-ddos-02](https://www.ietf.org/archive/id/draft-cui-savnet-anti-ddos-02.txt)"
+
 ### Extensions to support SAV-D
 
-- todo:
+- Python packages: `Scapy` for packet sniffer, `linuxnet-iptables` for ACL simulation.
 
-### SAVA Anti-DDoS Architecture
+- iptables: Linux kernel network filter for packet control.
 
-- todo: 
+- mininet: Lightweight network emulator for topo simulation.
 
-- todo:
-
-### Usage APIs
-
-- todo:
 
 ### Videos 
 
